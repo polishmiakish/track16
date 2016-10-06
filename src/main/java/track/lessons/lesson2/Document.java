@@ -1,8 +1,5 @@
 package track.lessons.lesson2;
 
-/**
- *
- */
 public class Document {
     String[] tokens;
 
